@@ -1,0 +1,17 @@
+.highlightVideoSection{
+    display: flex;
+    justify-content: center;
+}
+.hg-container{
+    width: 70rem;
+}
+.hg-title{
+    color: #02a9dc;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 45px 0 10px;
+    text-transform: uppercase;
+}
+.videoContent{
+    width: 100%;
+}
